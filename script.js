@@ -46,7 +46,7 @@ const questions = [
   {q:"Relative contraindications include migraine, hypertension, diabetes, varicose veins, and surgery.", a:false},
   {q:"Side effects of combined pills include nausea, headache, depression, weight gain, acne, metabolic effects, and clotting risk.", a:false},
   {q:"VACTERL association is linked to exposure to contraceptive steroids in pregnancy.", a:true},
-  {q:"Estrogen in contraceptives increases milk production during breastfeeding.", a:true},
+  {q:"Estrogen in contraceptives increases milk production during breastfeeding.", a: false},
   {q:"Post-pill amenorrhea may be treated with clomiphene or bromocriptine depending on cause.", a:true},
   {q:"Male sterilization is vasectomy; female methods include tubal ligation and hysterectomy.", a:true}
 ];
