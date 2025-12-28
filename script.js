@@ -43,7 +43,7 @@ const questions = [
   {q:"Progestins act mainly by thickening cervical mucus and altering endometrium and tubal motility.", a:true},
   {q:"Failure rates: COCP 1 HWY, POP 2–4 HWY, injectables 0.3 HWY, implants <1 HWY.", a:true},
   {q:"Absolute contraindications include thromboembolism, breast cancer, pregnancy, liver disease, and unexplained bleeding.", a:true},
-  {q:"Relative contraindications include migraine, hypertension, diabetes, varicose veins, and surgery.", a:false},
+  {q:"Relative contraindications include migraine, hypertension, diabetes, varicose veins, and surgery.", a:true},
   {q:"Side effects of combined pills include nausea, headache, depression, weight gain, acne, metabolic effects, and clotting risk.", a:false},
   {q:"VACTERL association is linked to exposure to contraceptive steroids in pregnancy.", a:true},
   {q:"Estrogen in contraceptives increases milk production during breastfeeding.", a: false},
